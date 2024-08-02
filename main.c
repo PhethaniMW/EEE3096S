@@ -144,7 +144,7 @@ int main(void)
 		 GPIOB->ODR = 0b11101001 ;
 	 }
 
-    
+
 
   }
   /* USER CODE END 3 */
@@ -376,7 +376,7 @@ void TIM16_IRQHandler(void)
 	// print something
 
 
-  
+
 }
 
 /* USER CODE END 4 */
